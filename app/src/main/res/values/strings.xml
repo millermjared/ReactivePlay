@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReactivePlay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_screen_a">ScreenAActivity</string>
+    <string name="title_activity_screen_b">ScreenBActivity</string>
+</resources>
